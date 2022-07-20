@@ -8,5 +8,5 @@
 ### points_hyperplane.py
 ### simdata_fraud1.py
 ### Hyperplanes_Separating_Data_Points_copy1.pdf
-## California Housing Values in 1990
+## houses_initial.pdf : California Housing Values in 1990
 ### github_house_values_cal.py 
