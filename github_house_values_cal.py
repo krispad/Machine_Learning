@@ -12,11 +12,10 @@ Created on Sun Jul  3 10:26:39 2022
 
 import pandas as pd 
 ''' 1990 Housing Prices 
-    The housing price dataset for California may be obtained from the Carnegie Mellon Statlib Repo. (http://lib.stat.cmu.edu)
-    Download the zipped directory; place the housing data in a directory of your choice
+    The housing price dataset for California may be obtained from https://github.com/krispad/Machine_Learning/houses.txt
 '''
 
-cal_houses1990 = pd.read_csv('your path to the housing data', sep = ' ') 
+cal_houses1990 = pd.read_csv('https://github.com/krispad/Machine_Learning/houses.txt', sep = ' ') 
 import geopandas as gpd # using the geospatial version of pandas
 
 ''' 1) link: https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
