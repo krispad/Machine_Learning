@@ -10,5 +10,5 @@
 ### Hyperplanes_Separating_Data_Points_copy1.pdf
 ## houses_initial.pdf using California Housing Values in 1990
 ## houses.txt -- raw dataset containing the California Housing Values
-### github_house_values_cal.py 
+### github_house_values_cal.py - generates a geospatial graph of California with the 1990 Housing Values superimposed
 ### houses_eda2.R 
