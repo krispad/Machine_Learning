@@ -4,10 +4,10 @@
 *** R Code to generate the important variables from the results of the Adaboost Algorithm, the evolution of errors for the test and training sets. 
 ### spam.pdf --- Application of Adaboost.R to spam data 
 ## Separating Data using Hyperplanes
-### perc_linprog.py
-### seq_lst_sq_qdrtc_prgm.py
-### points_hyperplane.py
-### simdata_fraud1.py
+### perc_linprog.py   - early history of perceptrons 
+### seq_lst_sq_qdrtc_prgm.py - quadratic program 
+### points_hyperplane.py -- generates separating hyperplane
+### simdata_fraud1.py -- simulated data for fraud analysis 
 ### Hyperplanes_Separating_Data_Points_copy1.pdf--- PDF of the Separating Hyperplanes and an application using simulated data.
 ## California Housing Values (1990 Data):
 ### houses_initial.pdf- Displaying a map of California with housing values superimposed, the effect of median income, and pair/correlation plots of the following variables:  housing values, median income, household, avg_population , avg_totalrooms, and avg_total_bedrooms.  U.S. Government shapefiles are used to depict Metropolitan Statistical Areas (MSAs) and the MSAs are colour-coded to represent housing values in California. 
