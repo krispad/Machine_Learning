@@ -11,7 +11,7 @@
 ### Hyperplanes_Separating_Data_Points_copy1.pdf--- PDF of the Separating Hyperplanes and an application using simulated data.
 ## California Housing Values (1990 Data):
 ### houses_initial.pdf- Displaying a map of California with housing values superimposed, the effect of median income, and pair/correlation plots of the following variables:  housing values, median income, household, avg_population , avg_totalrooms, and avg_total_bedrooms.  U.S. Government shapefiles are used to depict Metropolitan Statistical Areas (MSAs) and the MSAs are colour-coded to represent housing values in California. 
-***This file is too large to view as is, download the file after clicking on the link ( there is a download button on the right) 
+***This file is too large to view as is, download the file after clicking on the link symbol [adjacent to houses_initial.pdf] ( once opened, there is a download button on the right) 
 ### houses.txt -- raw dataset containing the California Housing Values
 ### github_house_values_cal.py - generates a geospatial graph of California with the 1990 Housing Values superimposed
 ### houses_eda2.R -- R code to generate pair/correlation plots and ggplots of the house values against the median income.
