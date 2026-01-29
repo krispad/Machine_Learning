@@ -1,6 +1,8 @@
 # Machine_Learning :
-## A gradient boosting algorithm (AdaBoost) with a binary response 
-### AdaBoost.R 
+# Treasury Spread movements over time
+## Treasury Spread with Spline fit and identification of regions of recovery, expansion,and contraction.
+# A gradient boosting algorithm (AdaBoost) with a binary response 
+##AdaBoost.R 
 *** R Code to generate the important variables from the results of the Adaboost Algorithm, the evolution of errors for the test and training sets. 
 ### spam.pdf --- Application of Adaboost.R to spam data 
 ## Separating Data using Hyperplanes
