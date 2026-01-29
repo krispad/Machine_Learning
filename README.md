@@ -1,4 +1,5 @@
 # Machine_Learning :
+Small Caps: Example of  Insurance Stock  (Ticker: IYH) overlayed with Treasury Spread together with a prediction of the stock price.
 # Treasury Spread movements over time
 ## Treasury Spread with Spline fit and identification of regions of recovery, expansion,and contraction.
 # A gradient boosting algorithm (AdaBoost) with a binary response 
