@@ -1,11 +1,14 @@
-# Machine_Learning :
-## Small Caps: Example of  Insurance Stock  (Ticker: IYH) overlayed with Treasury Spread together with a prediction of the stock price.
-## Treasury Spread movements over time
-### Treasury Spread with Spline fit and identification of regions of recovery, expansion,and contraction.
-## A gradient boosting algorithm (AdaBoost) with a binary response 
+# Machine_Learning 
+# Contents: 
+## Small Caps: An example of an Insurance Stock (Ticker: IYH) overlayed with together wtih the 10 year Treasury Spread and a prediction of the average stock price for the next week.
+## 1o year Treasury Spread movements over time
+### The 10 year Treasury Spread overlayed with a Spline fit and the identification of recovery, expansion,and contraction regions.
+## The R code for a gradient boosting algorithm (AdaBoost) with a binary response 
 ### AdaBoost.R 
-### R Code to generate the important variables from the results of the Adaboost Algorithm, the evolution of errors for the test and training sets. 
-### spam.pdf --- Application of Adaboost.R to spam data 
+### R Code to generate 
+#### Important variables from the results of the Adaboost Algorithm
+#### The evolution of errors for the chosen test and training sets. 
+### spam.pdf --- An application of Adaboost.R to spam data 
 ## Separating Data using Hyperplanes
 ### perc_linprog.py   - early history of perceptrons 
 ### seq_lst_sq_qdrtc_prgm.py - quadratic program 
