@@ -44,6 +44,8 @@
       - Data_Preparation
       - Beer_Data_Exploration
    - Beer Models
+      - Beer_Models.ipynb
+         - Contains models of the beer data viz., Random Forests, 
       - beer2.py contains the python code (using Tensor Flow) for the Neural Network(NN) construction
       - beer_model2_image.png contains a schematic of the NN architecture 
 
