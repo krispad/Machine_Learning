@@ -39,7 +39,12 @@
            - 'Ensemble' methods are used to compare Random Forests, Gradient Boosting and AdaBoost.
         -  Raw dataset containing the California Housing Values:
            - houses.txt 
-### Analysis of the beer data 
-.... Files to open are Data_Preparation, Beer_Data_Exploration , BEER_models
-### Neural Network application of the beer data
-... beer2.py contains the python code ( and using Tensor Flow) for the Neural Network construction ;beer_model2_image.png contains a schematic of the NN architecture.
+5. Beer Data and Models
+   - Beer data preparation
+      - Data_Preparation
+      - Beer_Data_Exploration
+   - Beer Models
+      - beer2.py contains the python code (using Tensor Flow) for the Neural Network(NN) construction
+      - beer_model2_image.png contains a schematic of the NN architecture 
+
+
