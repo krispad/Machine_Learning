@@ -25,13 +25,20 @@
      1. A map of California with housing values superimposed
         - U.S. Government shapefiles are used to depict Metropolitan Statistical Areas (MSAs) and the MSAs are colour-coded to represent housing values in California. 
      2. The effect of median income
-
-   *** Warning: This file is may be too large to view as is, download the file after clicking on the link symbol [adjacent to houses_initial.pdf] (once opened, there is a download button on the right) 
-### houses.txt -- raw dataset containing the California Housing Values
-### github_house_values_cal.py - generates a geospatial graph of California with the 1990 Housing Values superimposed
-### houses_eda2.R -- R code to generate pair/correlation plots and ggplots of the house values against the median income.
-### cal_houses_gamma.ipynb: Python code within a Jupyter NB modifying the raw data on housing values, constructing a modelling data set with NaN entries, imputing the NaN values, cross-validating the data and constructing a GLM with a gamma response. Commentaries on the validation of the model are given. 
-### California_Housing_Bagging_vs_RForests.ipynb : A Jupyter NB comparing Bagging and Random Forests for the 1990 California Housing Data. There is also a section where 'ensemble' methods are used to compare Random Forests, Gradient Boosting and the AdaBoost method.
+        - Warning: This file is may be too large to view as is, download the file after clicking on the link symbol [the icon to the left of houses_initial.pdf] (once opened, there is a download button on the upper right hand corner) 
+     3. California Housing Code
+        - github_house_values_cal.py - generates a geospatial graph of California with the 1990 Housing Values superimposed
+        - houses_eda2.R -- R code to generate pair/correlation plots and ggplots of the house values against the median income.
+        - cal_houses_gamma.ipynb: 
+           - modifying the raw data on housing values
+           - constructs a modelling data set with NaN entries, imputing the NaN values
+           - cross-validating the data and constructing a GLM with a gamma response. 
+             - Commentaries on the validation of the model
+        -  California_Housing_Bagging_vs_RForests.ipynb
+           - compares Bagging and Random Forests for the 1990 California Housing Data
+           - 'Ensemble' methods are used to compare Random Forests, Gradient Boosting and AdaBoost.
+        -  Raw dataset containing the California Housing Values:
+           - houses.txt 
 ### Analysis of the beer data 
 .... Files to open are Data_Preparation, Beer_Data_Exploration , BEER_models
 ### Neural Network application of the beer data
