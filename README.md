@@ -24,9 +24,9 @@
   - 'houses_initial.pdf' displays: 
      1. A map of California with housing values superimposed
         - U.S. Government shapefiles are used to depict Metropolitan Statistical Areas (MSAs) and the MSAs are colour-coded to represent housing values in California. 
-     3. The effect of median income
+     2. The effect of median income
 
-   ***This file is too large to view as is, download the file after clicking on the link symbol [adjacent to houses_initial.pdf] ( once opened, there is a download button on the right) 
+   *** Warning: This file is may be too large to view as is, download the file after clicking on the link symbol [adjacent to houses_initial.pdf] (once opened, there is a download button on the right) 
 ### houses.txt -- raw dataset containing the California Housing Values
 ### github_house_values_cal.py - generates a geospatial graph of California with the 1990 Housing Values superimposed
 ### houses_eda2.R -- R code to generate pair/correlation plots and ggplots of the house values against the median income.
