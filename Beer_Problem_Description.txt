@@ -1,0 +1,10 @@
+﻿Description of the Problem
+Questions:
+
+    • Develop a dataset from the datasets ‘out of stock’ and ‘Sales data weekly’ to model the out of stock for each product across all the stores and over all months of the year. Develop and justify an appropriate response variable.
+    • Carefully detail all the steps taken to construct a workable modelling dataset. If data has to be dropped from the modelling dataset, justify this action. 
+    • Apply various modelling strategies to the constructed modelling dataset, viz., relevant distributions from the exponential family, the Tweedie Distribution, Random Forests, AdaBoost, etc. 
+    • In addition, use Neural Nets and Tensorflow to model the ‘out of stock’ occurrences 
+    • Compare the results between the neural net and other modelling strategies used. 
+    • What is the final conclusion drawn? 
+    • What strategies can be employed to preamp those products that have a high likelihood of ‘out of stock’ ? Is  it possible to estimate how much more such revenue the action of preamp will generate. Taking into account other costs incurred as a result of the preamp, is it worth taking any action? 
