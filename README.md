@@ -43,8 +43,11 @@
    - Description of the Problem
       - Beer Data
         - Data Dictionary
+          - data_dictionary.txt
         - Data_Preparation
+          = data_preparation.ipynb
       - Beer_Data_Exploration
+          - beer_data_exploration.ipynb
    - Beer Models
       - Beer_Models.ipynb
          - Contains models of the beer data viz., Poisson, Tweedie, AdaBoost,and Random Forests.
