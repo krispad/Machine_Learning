@@ -42,6 +42,7 @@
 5. Beer Data and Models
    - Description of the Problem
       - Beer Data
+        - Data Dictionary
         - Data_Preparation
       - Beer_Data_Exploration
    - Beer Models
