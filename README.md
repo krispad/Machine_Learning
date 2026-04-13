@@ -45,7 +45,7 @@
         - Data Dictionary
           - data_dictionary.txt
         - Data_Preparation
-          = data_preparation.ipynb
+          - data_preparation.ipynb
       - Beer_Data_Exploration
           - beer_data_exploration.ipynb
    - Beer Models
