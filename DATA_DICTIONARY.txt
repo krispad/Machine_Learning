@@ -1,0 +1,36 @@
+﻿Data dictionary for the Beer Data
+
+There are two files:
+a) out of stock data
+b) Sales data weekly
+
+
+a) out of stock data
+Variables:
+    1. YEAR_MONTH_WK  - Time period column ( week number is lowest key) 
+    2. DivisionNum – Division is related to a geographical area which conveys many retail stores
+       under it 
+    3. StoreNum – Retailer Id 
+    4. UPC – Package Id
+    5. UPC_Description – Package Description 
+    6. DATE_KEY – Data out of stock was noticed
+    7. DSD_Vendor_Name – Vendor selling the product 
+
+b) Sales data weekly
+Variables:
+    1. YEAR_MONTH_WK – Time Period column (week number is the lowest key)
+    2. UPC – Package Id
+    3. RPT_SHORT_DESC – manager on floor
+    4. RE_STO_NUM – retailer id
+    5. SCANNED_RETAIL_DOLLARS – Dollar Sales Revenue
+    6. SCANNED_MOVEMENT – Number of units sold 
+    7. SCANNED_LBS – weight of product sold
+    8. GROSS_MARGIN_DOLLARS – profit margin 
+
+Some Comments:
+In the dataset out of stock data, the variable YEAR_MONTH_WK could have more than one DATE_KEY field for the same UPC in the same store. DATE_KEY are dates when a UPC is observed to be out of stock ; if a certain date is missing from the data then the product is available on the shelf. Please note that YEAR_MONTH_WK is not calendar specific, here the year begins in February to match the opening and closing of financial books. YEAR_MONTH_WK is consistent for all stores in the data, so the start and end weeks are the same time in the calendar year across all stores. 
+
+Negative values in SCANNED_RETAIL_DOLLARS reflect returned product. 
+
+
+  
