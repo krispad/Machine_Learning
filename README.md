@@ -40,6 +40,8 @@
         -  Raw dataset containing the California Housing Values:
            - houses.txt 
 5. Beer Data and Models
+   - Description of the Problem
+   - Beer Data 
    - Beer data preparation
       - Data_Preparation
       - Beer_Data_Exploration
