@@ -41,9 +41,8 @@
            - houses.txt 
 5. Beer Data and Models
    - Description of the Problem
-   - Beer Data 
-   - Beer data preparation
-      - Data_Preparation
+      - Beer Data
+        - Data_Preparation
       - Beer_Data_Exploration
    - Beer Models
       - Beer_Models.ipynb
