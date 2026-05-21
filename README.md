@@ -57,7 +57,7 @@
          - beer_model2_image.png contains a schematic of the NN architecture for the sequential model.
          - The image beer_model_symbolic.py contains an schematic of the NN architecture used in the functional (symbolic) model.
          - Python code for a comparison between the sequential and symbolic model. The code is contained in train_test_beer.py
-             - A visualization  of the comparison between the sequential and symbolic model
+             - A visualization  of the comparison between the sequential and symbolic model. The image is contained in fn_sym_mse_epochs_test.png
         
 
 
