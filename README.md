@@ -54,6 +54,7 @@
          - Contains models of the beer data viz., Poisson, Tweedie, AdaBoost,and Random Forests.
          - Compares the results of the models. 
       - The code sheets class_beer_sq.py and class_beer_nn_functional.py contain python code (using Tensor Flow) for the Neural Network(NN) construction. Both code sheets use the same NN architecture and the results are compared. 
-      - beer_model2_image.png contains a schematic of the NN architecture for the sequential model.
+         - beer_model2_image.png contains a schematic of the NN architecture for the sequential model.
+         - The image beer_model_symbolic.py contains an schematic of the NN architecture used in the functional (symbolic) model. 
 
 
