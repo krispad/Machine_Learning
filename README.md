@@ -53,7 +53,7 @@
       - Beer_Models.ipynb
          - Contains models of the beer data viz., Poisson, Tweedie, AdaBoost,and Random Forests.
          - Compares the results of the models. 
-      - beer2.py contains the python code (using Tensor Flow) for the Neural Network(NN) construction
+      - The code sheets class_beer_sq.py and class_beer_nn_functional.py contain python code (using Tensor Flow) for the Neural Network(NN) construction. Both code sheets use the same NN architecture and the results are compared. 
       - beer_model2_image.png contains a schematic of the NN architecture 
 
 
